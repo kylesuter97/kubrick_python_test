@@ -1,0 +1,54 @@
+Feedback generated at 08:43 on Tuesday, 07 March
+-------------
+************************
+Feedback for submission from kyle suter:
+************************
+
+kyle gets 5/5 on question split_odd_even
+	Split Odd Even: Test 1/3 (3 marks): lists with only integers...Passed
+	Split Odd Even: Test 2/3 (1 marks): lists with different types of elements...Passed
+	Split Odd Even: Test 3/3 (1 marks): empty list...Passed
+kyle gets 4/5 on question flatten_list
+	Flatten List: Test 1/2 (4 marks): list with one inner nested level...Passed
+	Flatten List: Test 2/2 (1 marks): list with multiple inner nested levels...Failed
+kyle gets 5/5 on question palindrome_numbers1
+	Palindrome Numbers (1): Test 1/3 (3 marks): list with only integers...Passed
+	Palindrome Numbers (1): Test 2/3 (1 marks): list with different types of elements...Passed
+	Palindrome Numbers (1): Test 3/3 (1 marks): empty list...Passed
+kyle gets 5/5 on question tuples_to_dict
+	Tuples To Dict: Test 1/2 (4 marks): all unique elements in first tuple...Passed
+	Tuples To Dict: Test 2/2 (1 marks): some non-unique elements in first tuple...Passed
+kyle gets 5/5 on question interests_in_common
+	Interests In Common: Test 1/3 (3 marks): lists with some interests in common...Passed
+	Interests In Common: Test 2/3 (1 marks): lists with no interests in common...Passed
+	Interests In Common: Test 3/3 (1 marks): empty lists...Passed
+kyle gets 5/5 on question name_processing5
+	Name Processing (5): Test 1/3 (3 marks): list containing only names that do not have a middle name...Passed
+	Name Processing (5): Test 2/3 (1 marks): list containing names with at most one middle name...Passed
+	Name Processing (5): Test 3/3 (1 marks): list containing names with multiple middle names...Passed
+kyle gets 5/5 on question logger
+	Logger: Test 1/4 (2 marks): Successful initialisation of Logger object...Passed
+	Logger: Test 2/4 (1 marks): Successful single call to log_to_file...Passed
+	Logger: Test 3/4 (1 marks): Successful multiple calls to log_to_file...Passed
+	Logger: Test 4/4 (1 marks): Successful call to delete_logs...Passed
+kyle gets 5/5 on question dataframe_combine3
+	DataFrame Combine (3): Test 1/4 (1 marks): Same columns in actual output and expected output...Passed
+	DataFrame Combine (3): Test 2/4 (1 marks): Same number of rows in actual output and expected output...Passed
+	DataFrame Combine (3): Test 3/4 (3 marks): Actual output is the same as the expected output...Passed
+kyle gets 5/5 on question dataframe_selector3
+	DataFrame Selector (3): Test 1/2 (2 marks): output dataframe has the same length as the expected output...Passed
+	DataFrame Selector (3): Test 2/2 (3 marks): output dataframe is the same as the expected output...Passed
+kyle gets 5/5 on question dataframe_process_data3
+	DataFrame Process Data (3): Test 1/4 (1 marks): Output type is a dictionary...Passed
+	DataFrame Process Data (3): Test 2/4 (1 marks): Output dictionary has the same length as the expected output...Passed
+	DataFrame Process Data (3): Test 3/4 (1 marks): Output ditionary has the same keys as the expected output...Passed
+	DataFrame Process Data (3): Test 4/4 (2 marks): Output dictionary is the same as the expected output...Passed
+kyle gets 5/5 on question get_air_quality_parameters
+	Get Air Quality Parameters: Test 1/3 (1 marks): at least one air quality parameter in the output...Passed
+	Get Air Quality Parameters: Test 2/3 (2 marks): successful retrieval of parameters when core_only = False...Passed
+	Get Air Quality Parameters: Test 3/3 (2 marks): successful retrieval of parameters when core_only = True...Passed
+
+************************
+kyle suter gets 50/50
+************************
+
